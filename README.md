@@ -11,6 +11,7 @@
 
 # About me
 ## My Hobbies
+![travel](https://media.istockphoto.com/id/1354385636/photo/unrecognizable-man-with-bag-and-suitcase-walking-in-airport-rear-view.jpg?s=1024x1024&w=is&k=20&c=C2K4mgsz8sD6fCkhPz0FBog_FY1nvL6rUoAq0e7YeRU=)
 I love to travel.  The best trip I took was to Australia.  I was there two weeks.  Most of my trip was along the east coast of Australia visiting Sydney, Cairns, and Melbourne.  Australia is a large country and I know I want to go back to explore more and see what else the country has to offer
 
 My first trip I ever took was to Europe, it was with a school organization.  We spent two weeks exploring London, Paris, Switzerland, Austria, and Italy.  There were a lot of visits to art museums, learning about history.  There was also a lot of exploring from visiting larging cities and many trips up the beautiful mountains
