@@ -9,15 +9,15 @@
 	4. Then click on "clone repository"
 
 
-#About me
-##My Hobbies
-![kangaroo](https://www.dreamstime.com/royalty-free-stock-photos-red-kangaroo-image13290808) I love to travel.  The best trip I took was to Australia.  I was there two weeks.  Most of my trip was along the east coast of Australia visiting Sydney, Cairns, and Melbourne.  Australia is a large country and I know I want to go back to explore more and see what else the country has to offer
+# About me
+## My Hobbies
+I love to travel.  The best trip I took was to Australia.  I was there two weeks.  Most of my trip was along the east coast of Australia visiting Sydney, Cairns, and Melbourne.  Australia is a large country and I know I want to go back to explore more and see what else the country has to offer
 
-![airplane(https://images.pexels.com/photos/46148/aircraft-jet-landing-cloud-46148.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)]My first trip I ever took was to Europe, it was with a school organization.  We spent two weeks exploring London, Paris, Switzerland, Austria, and Italy.  There were a lot of visits to art museums, learning about history.  There was also a lot of exploring from visiting larging cities and many trips up the beautiful mountains
+My first trip I ever took was to Europe, it was with a school organization.  We spent two weeks exploring London, Paris, Switzerland, Austria, and Italy.  There were a lot of visits to art museums, learning about history.  There was also a lot of exploring from visiting larging cities and many trips up the beautiful mountains
 
-![car](https://media.istockphoto.com/id/1707927462/photo/road-trip-romance.jpg?s=1024x1024&w=is&k=20&c=iisCxC6I2IwwRF84Tu9_JvDXHmLY5rFMayGx8EzfMuc=)My most recent trip was a road trip to Atlanta.  Growing up in the Midwest most of our trips were road trips.  It is less expensive and it is a great way to see the country.  You can also take your time and you can go off path if you choose.
+My most recent trip was a road trip to Atlanta.  Growing up in the Midwest most of our trips were road trips.  It is less expensive and it is a great way to see the country.  You can also take your time and you can go off path if you choose.
 
-##Websites I Recommend
+## Websites I Recommend
 * [YouTube](https://www.youtube.com) - great thing about youtube is if you need to know how to do something you could possibly find a video on how to.  Everything from cooking a steak, riding a bicycle, or how to change the oil in your car.
 
 * [Amazon](https://www.amazon.com) - If you need anything chances are you can find it on amazon.  You can see the different seller who are selling the product you are trying to purchase you can pick the less expensive item or more expensive whatever you choose.
